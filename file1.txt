@@ -1,2 +1,2 @@
 this is file1S
-This issecond line 
+This issecond line
